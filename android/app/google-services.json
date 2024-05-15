@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442736718269",
+    "project_id": "sertifikasirangga",
+    "storage_bucket": "sertifikasirangga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442736718269:android:bcd09bdcfb5bdc1974e2d4",
+        "android_client_info": {
+          "package_name": "com.example.sertifikasi_rangga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfjCrkvtcgrMztUy6xLLKeQpyhitx0RGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
